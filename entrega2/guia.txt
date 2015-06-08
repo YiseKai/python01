@@ -5,4 +5,24 @@ Para mandar un archivo se debe introducir en el chat el carácter '#', luego int
 
 Para que funcione la transferencia del archivo a mandar, este debe llamarse "a.txt". 
 
+EJEMPLO EJECUTAR SERVIDOR.PY
+________________________________
+
+$ python servidor.py direccionIP
+
+del estilo siguiente
+
+$ python servidor.py 192.168.1.12
+
+
+EJEMPLO EJECUTAR CHAT.PY
+________________________________
+
+$ python chat.py interfaz nombre
+
+del estilo siguiente
+
+$ python chat.py wlan0 Profesor   .... si estamos en wifi
+$ python chat.py eth0 Profesor    .... si estamos por cable
+
 Este programa podría mejorarse para poder transferir cualquier archivo que no esté definido en el código.
