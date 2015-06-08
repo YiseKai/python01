@@ -1,0 +1,1 @@
+La idea consiste en realizar un sistema de mensajeria instantanea en la misma red que nos encontremos mediante terminal añadiendo como método la posibilidad de enviar archivos entre los usuarios.
